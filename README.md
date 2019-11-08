@@ -1,1 +1,2 @@
 # WatFoodDeal
+Maintaining budget while keeping the appetit healthy and satisfactory is the biggest challenge a student face during his grad life. Knocking several food corners or even googling down every single time manually takes a lot of time during a busy schedule. Eventhough, getting a cheap but quality food is possible always to find, nothing can beat a trustworthy recommendation combining nearby food stores containing all the offers in a particular day. Perhaps, an app can solve the issue immediately.
